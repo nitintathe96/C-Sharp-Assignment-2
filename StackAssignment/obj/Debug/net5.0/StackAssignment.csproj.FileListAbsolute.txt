@@ -1,0 +1,16 @@
+C:\Users\Ni3\source\repos\StackAssignment\StackAssignment\bin\Debug\net5.0\StackAssignment.exe
+C:\Users\Ni3\source\repos\StackAssignment\StackAssignment\bin\Debug\net5.0\StackAssignment.deps.json
+C:\Users\Ni3\source\repos\StackAssignment\StackAssignment\bin\Debug\net5.0\StackAssignment.runtimeconfig.json
+C:\Users\Ni3\source\repos\StackAssignment\StackAssignment\bin\Debug\net5.0\StackAssignment.runtimeconfig.dev.json
+C:\Users\Ni3\source\repos\StackAssignment\StackAssignment\bin\Debug\net5.0\StackAssignment.dll
+C:\Users\Ni3\source\repos\StackAssignment\StackAssignment\bin\Debug\net5.0\StackAssignment.pdb
+C:\Users\Ni3\source\repos\StackAssignment\StackAssignment\obj\Debug\net5.0\StackAssignment.csproj.AssemblyReference.cache
+C:\Users\Ni3\source\repos\StackAssignment\StackAssignment\obj\Debug\net5.0\StackAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ni3\source\repos\StackAssignment\StackAssignment\obj\Debug\net5.0\StackAssignment.AssemblyInfoInputs.cache
+C:\Users\Ni3\source\repos\StackAssignment\StackAssignment\obj\Debug\net5.0\StackAssignment.AssemblyInfo.cs
+C:\Users\Ni3\source\repos\StackAssignment\StackAssignment\obj\Debug\net5.0\StackAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Ni3\source\repos\StackAssignment\StackAssignment\obj\Debug\net5.0\StackAssignment.dll
+C:\Users\Ni3\source\repos\StackAssignment\StackAssignment\obj\Debug\net5.0\refint\StackAssignment.dll
+C:\Users\Ni3\source\repos\StackAssignment\StackAssignment\obj\Debug\net5.0\StackAssignment.pdb
+C:\Users\Ni3\source\repos\StackAssignment\StackAssignment\obj\Debug\net5.0\StackAssignment.genruntimeconfig.cache
+C:\Users\Ni3\source\repos\StackAssignment\StackAssignment\obj\Debug\net5.0\ref\StackAssignment.dll
