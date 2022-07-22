@@ -7,10 +7,14 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Stack<int> stack = new Stack<int>();
-            stack.Push(10);
-            stack.Push(20);
-            stack.Push(30);
+            Console.WriteLine("---------Stack--------");
+            Stack<int> stackitem = new Stack<int>();
+            stackitem.Push(90);
+            stackitem.Push(80);
+            stackitem.Push(70);
+            //As int is not a Reference type so null can not be accepted by this stack
+            //stackitem.Push(null); //Compile-Time Error - cannot convert from <null> to int in generic collection
+            Console.WriteLine("Generic stack elements:-");
         }
     }
 }   
